@@ -57,7 +57,7 @@
 (defn a
   "Specify the rdf:type of an entity being described"
   []  
-  (str "<http://www.w3.org/1999/02/22-rdf-syntax-ns#> "))
+  (str " <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "))
 
 (defn literal
   "[v] String that represents the literal value to create.
