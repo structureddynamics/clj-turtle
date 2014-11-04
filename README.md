@@ -13,7 +13,7 @@ With the six operators described in the `API` section below, we are able to desc
 
 ### Using Linengen
 
-You can easily install `clj-turtle` using Linengen. The only thing you have to do is to add Add `[clj-turtle "0.1.1"]` as a dependency to your `project.clj`.
+You can easily install `clj-turtle` using Linengen. The only thing you have to do is to add Add `[clj-turtle "0.1.2"]` as a dependency to your `project.clj`.
 
 Then make sure that you downloaded this dependency by running the `lein deps` command.
 
