@@ -1,4 +1,4 @@
-(defproject clj-turtle "0.1.2"
+(defproject clj-turtle "0.1.3"
   :description "A Clojure Domain Specific Language (DSL) for RDF/Turtle"
   :url "https://github.com/structureddynamics/clj-turtle"
   :license {:name "Eclipse Public License"
